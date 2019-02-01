@@ -15,5 +15,6 @@ two:
 ruby:
   title:  Programming Ruby
   description: Ruby is noice
-  price: 49.99
   image_url: ruby.png
+  price: 49.99
+  
